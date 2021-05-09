@@ -35,7 +35,7 @@
       </div>
     </div>
     
-    <footer class="h-10 w-full bottom-0 pt-2 mt-2">
+    <footer class="h-10 w-full md:absolute bottom-0 pt-2 mt-2">
       <p class="text-center">
         &copy;
         <span id="copyright">
