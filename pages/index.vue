@@ -34,7 +34,8 @@
         </div>
       </div>
     </div>
-    <footer class="h-10 w-full absolute bottom-0">
+    
+    <footer class="h-10 w-full bottom-0 pt-2 mt-2">
       <p class="text-center">
         &copy;
         <span id="copyright">
@@ -47,6 +48,7 @@
         Unsanctioned Pro
       </p>
     </footer>
+  
   </div>
 </template>
 
@@ -67,8 +69,8 @@ html {
 
 .socialMedia {
   background-color: white;
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
 }
 
 .title {
