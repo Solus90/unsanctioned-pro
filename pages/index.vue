@@ -1,0 +1,62 @@
+<template>
+  <div class="container mx-auto">
+    <h1 class="font-bold text-center title">Unsanctioned Pro</h1>
+    <div class="grid grid-cols-1 gap-1 md:grid-cols-2 md:gap-2">
+      <div class="logo mx-auto">
+        <img src="~/assets/images/logo.png" alt="" />
+      </div>
+      <div class="grid grid-cols-4 gap-1 sm:gap-4">
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+        <a href="http://" target="_blank" rel="noopener noreferrer"
+          ><div class="socialMedia">Test</div></a
+        >
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style>
+/* Sample `apply` at-rules with Tailwind CSS
+.container {
+@apply min-h-screen flex justify-center items-center text-center mx-auto;
+}
+*/
+
+html {
+  background-color: black;
+}
+
+.socialMedia {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+}
+
+.title {
+  color: #84cc16;
+}
+</style>
