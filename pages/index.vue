@@ -168,7 +168,7 @@ html {
 .socialMedia {
   height: 120px;
   width: 120px;
-  margin: 0.75rem 1rem;
+  margin: 1rem 1rem;
 }
 
 .title {
