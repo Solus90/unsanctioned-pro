@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container mx-auto">
-      <h1 class="font-bold text-center title">Unsanctioned Pro</h1>
+      <h1 class="font-bold text-center title md:mt-1">Unsanctioned Pro</h1>
       <div class="grid grid-cols-1 gap-1 md:grid-cols-2 md:gap-2 mt-16">
         <div class="logo mx-auto">
           <img src="~/assets/images/logo.png" alt="" class="mx-auto"/>
@@ -177,6 +177,11 @@ html {
 
 .links{
   margin-bottom: 1rem;
+}
+
+h1{
+  font-size: 24px;
+  font-family: 'Press Start 2P', cursive;
 }
 
 h3{
