@@ -13,9 +13,9 @@
           </h3>
         </div>
         <div
-          class="grid grid-cols-4 gap-1 sm:gap-4 justify-items-center content-center links p-2 md:p-0"
+          class="grid grid-cols-2 lg:grid-cols-4 gap-1 sm:gap-4 justify-items-center content-center links p-2 md:p-0"
         >
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.instagram.com/unsanctionedpro/" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +30,7 @@
               <h3 class="text-center text-white">Instagram</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://twitter.com/unsanctionedpro/" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +45,7 @@
               <h3 class="text-center text-white">Twitter</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.facebook.com/unsanctionedpro/" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -60,13 +60,13 @@
               <h3 class="text-center text-white">Facebook</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.patreon.com/unsanctionedpro/" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <img src="~/assets/images/patreon-1.png" alt="" />
               <h3 class="text-center text-white">Patreon</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.youtube.com/channel/UCUzTM58FKxtTDtr17Cta76A" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +81,7 @@
               <h3 class="text-center text-white">Youtube</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.deathmatchworldwide.com/category/unsanctioned-pro" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +96,7 @@
               <h3 class="text-center text-white">Deathmatch WorldWide</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://unsanctionedpro.bigcartel.com/" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -111,7 +111,7 @@
               <h3 class="text-center text-white">Merch</h3>
               </div
           ></a>
-          <a href="http://" target="_blank" rel="noopener noreferrer"
+          <a href="https://paradigmprowrestling.ticketspice.com/owappwup-triple-threat---pro-wrestling-in-columbus-oh" target="_blank" rel="noopener noreferrer"
             ><div class="socialMedia">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -127,10 +127,11 @@
               </div
           ></a>
         </div>
+      
       </div>
     </div>
 
-    <footer class="h-10 w-full md:absolute bottom-0 pt-2 mt-2">
+    <footer class="h-10 w-full md:absolute bottom-0 sticky pt-2 mt-2">
       <p class="text-center">
         &copy;
         <span id="copyright">
