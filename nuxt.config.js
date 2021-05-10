@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'unsanctioned-pro',
+    title: '[Unsanctioned Pro]',
     htmlAttrs: {
       lang: 'en'
     },
